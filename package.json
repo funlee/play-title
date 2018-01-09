@@ -1,8 +1,8 @@
 {
   "name": "play-title",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "just have fun with web page title",
-  "main": "dist/playTitle.js",
+  "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/funlee/play-title.git"
   },
   "keywords": [
-    "visibilityChange"
+    "visibilityChange",
+    "HTML5"
   ],
   "author": "funlee",
   "license": "ISC",
@@ -20,9 +21,5 @@
   },
   "homepage": "https://github.com/funlee/play-title#readme",
   "devDependencies": {
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
-    "babel-preset-env": "^1.6.1",
-    "webpack": "^3.10.0"
   }
 }
