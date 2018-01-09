@@ -6,7 +6,7 @@ just have fun with web page title
 Use `npm` to install it:
 
 ```bash
-npm install --save play-title
+npm install --save-dev play-title
 ```
 Then you can require it in node:
 ```javascript
