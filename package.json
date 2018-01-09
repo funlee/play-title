@@ -1,11 +1,8 @@
 {
   "name": "play-title",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "just have fun with web page title",
   "main": "index.js",
-  "scripts": {
-    "build": "webpack"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/funlee/play-title.git"
@@ -15,7 +12,7 @@
     "HTML5"
   ],
   "author": "funlee",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/funlee/play-title/issues"
   },
